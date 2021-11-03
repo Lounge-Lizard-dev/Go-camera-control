@@ -1,4 +1,4 @@
-module github.com/Malachiain/camera-control
+module github.com/Lounge-Lizard-dev/Go-camera-control
 
 go 1.14
 
